@@ -8,7 +8,9 @@
 
 - Realizei as operações no MongoDB Atlas;
 
-- As respostas são baseadas em Json, retonando também o status correto;
+
+- As respostas são baseadas em Json, retornando junto o status correto.
+
 
 - Instalei também o pacote Nodemon para atualizar o código em tempo real.
 
