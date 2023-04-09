@@ -1,0 +1,27 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "- API baseada no framework EXPRESS para tratar as requisições e enviar as respostas no endpoints;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js localhost 3000"
+  },
+  "author": "Marianna",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMagno16/API-REST.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MMagno16/API-REST/issues"
+  },
+  "homepage": "https://github.com/MMagno16/API-REST#readme"
+}
