@@ -1,6 +1,6 @@
 # API REST com Node.JS e MongoDB.
 
-- API baseada no framwork EXPRESS para tratar as requisições e enviar as respostas no endpoints;
+- API baseada no framEwork EXPRESS para tratar as requisições e enviar as respostas no endpoints;
 
 
 - Utilizei o MongoDB como banco, porém com a ODM Mongoose;
